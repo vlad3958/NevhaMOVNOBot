@@ -21,7 +21,8 @@ namespace NevhaWebHook.Controllers
             {
                 if (message.Type == MessageType.Text)
                 {
-                      if (message.Text == "/start")
+                    
+                    if (message.Text == "/start")
                     {
                         await botClient.SendTextMessageAsync(999064898,
                             $"{message.Chat.Username}\n{message.Chat.Id}\nнатиснув старт");
