@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OpJhguNj3W49ZtfX+C9eXD12BaRXeAHeoBW8xbzItgOLOuS2us46bHxMQJ4zmm/pdmjzZBKho4sj/NrJCFW06w==",
+  "dgSpecHash": "SW7CGvqMgx3fPqQ49eQDLGq9N0J0+Ka7NcZDrEwEM7Rh2REu35lD/6KdZbHSNO60hNumRW61fmoLzCF7mIH6CQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Влад\\RiderProjects\\nevhaApi\\nevhaApi\\nevhaApi.csproj",
+  "projectFilePath": "C:\\Users\\Влад\\RiderProjects\\NevhaWebHook\\nevha\\nevhaApi\\nevhaApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Влад\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.0\\microsoft.aspnetcore.jsonpatch.6.0.0.nupkg.sha512",
     "C:\\Users\\Влад\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.0.nupkg.sha512",

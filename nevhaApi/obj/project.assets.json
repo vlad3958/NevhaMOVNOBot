@@ -492,11 +492,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Влад\\RiderProjects\\nevhaApi\\nevhaApi\\nevhaApi.csproj",
+      "projectUniqueName": "C:\\Users\\Влад\\RiderProjects\\NevhaWebHook\\nevha\\nevhaApi\\nevhaApi.csproj",
       "projectName": "nevhaApi",
-      "projectPath": "C:\\Users\\Влад\\RiderProjects\\nevhaApi\\nevhaApi\\nevhaApi.csproj",
+      "projectPath": "C:\\Users\\Влад\\RiderProjects\\NevhaWebHook\\nevha\\nevhaApi\\nevhaApi.csproj",
       "packagesPath": "C:\\Users\\Влад\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Влад\\RiderProjects\\nevhaApi\\nevhaApi\\obj\\",
+      "outputPath": "C:\\Users\\Влад\\RiderProjects\\NevhaWebHook\\nevha\\nevhaApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Влад\\AppData\\Roaming\\NuGet\\NuGet.Config",

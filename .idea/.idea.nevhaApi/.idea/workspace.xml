@@ -10,17 +10,14 @@
   <component name="ChangeListManager">
     <list default="true" id="f8cc9839-b599-4529-8757-5fb8fed07e03" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.nevhaApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.nevhaApi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nevhaApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nevhaApi/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nevhaApi/nevhaApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/nevhaApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nevhaApi/Controllers/BotController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/Controllers/BotController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nevhaApi/obj/Debug/net6.0/nevhaApi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/Debug/net6.0/nevhaApi.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nevhaApi/obj/Debug/net6.0/nevhaApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/Debug/net6.0/nevhaApi.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nevhaApi/obj/Debug/net6.0/nevhaApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/Debug/net6.0/nevhaApi.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nevhaApi/obj/nevhaApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/nevhaApi.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nevhaApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nevhaApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nevhaApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nevhaApi/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nevhaApi/ууу.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,19 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.nevhaApi">
     <configuration name="nevhaApi" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/nevhaApi/nevhaApi.csproj" />
@@ -90,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706690990421</updated>
       <workItem from="1706690999500" duration="2118000" />
+      <workItem from="1722332742503" duration="293000" />
     </task>
     <servers />
   </component>
