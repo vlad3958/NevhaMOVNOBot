@@ -10,14 +10,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f8cc9839-b599-4529-8757-5fb8fed07e03" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.nevhaApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.nevhaApi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nevhaApi/Controllers/BotController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/Controllers/BotController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nevhaApi/obj/Debug/net6.0/nevhaApi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/Debug/net6.0/nevhaApi.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nevhaApi/obj/Debug/net6.0/nevhaApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/Debug/net6.0/nevhaApi.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nevhaApi/obj/nevhaApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/nevhaApi.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nevhaApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nevhaApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nevhaApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nevhaApi/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/nevhaApi/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706690990421</updated>
       <workItem from="1706690999500" duration="2118000" />
-      <workItem from="1722332742503" duration="293000" />
+      <workItem from="1722332742503" duration="1237000" />
     </task>
     <servers />
   </component>
