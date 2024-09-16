@@ -15,7 +15,7 @@ namespace NevhaWebHook.Controllers
         [HttpPost]
         public async Task<IActionResult> Bot([FromBody] Update update)
         {
-            var botClient = new TelegramBotClient("6086878374:AAEkFyyPSyoGg5jg6vj1r4hoZH3i--nNpus");
+            var botClient = new TelegramBotClient("*");
             var message = update.Message;
             if (message != null)
             {
